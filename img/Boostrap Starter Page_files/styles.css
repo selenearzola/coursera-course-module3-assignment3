@@ -1,0 +1,37 @@
+body{
+	font-size: 16px;	
+}
+
+/*Header*/
+#header-nav{
+  background-color:#999999;
+  border-radius: 0;
+  border:0;
+}
+
+/*#logo-img{
+ background: url('../img/logo.png') no-repeat;
+ width: 150px;
+ height: 150px;
+ margin: 10px 15px 10px 0;
+
+}*/
+
+.navbar-brand{
+  padding-top:15px;
+}
+
+
+.navbar-brand h1{
+
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover , .navbar-brand a:focus{
+  text-decoration: none;
+}
